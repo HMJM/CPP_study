@@ -98,4 +98,10 @@ int main (void)
 	Point *p = new Point();
 	geo.AddPoint(*p);
 	geo.PrintDistance();
+
+	for (int i = 0; i < 10; i++)
+		delete points[i];
+	delete p;
+	while (1);
+	return (0);
 }
