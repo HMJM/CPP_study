@@ -83,6 +83,7 @@ class Geometry {
 
   void PrintNumMeets();
   // 교점 구하는 것을 잘 못 하겠음
+  // 일단 넘김
 };
 
 int main (void)
@@ -102,6 +103,5 @@ int main (void)
 	for (int i = 0; i < 10; i++)
 		delete points[i];
 	delete p;
-	while (1);
 	return (0);
 }
