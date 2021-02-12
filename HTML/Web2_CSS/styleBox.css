@@ -1,0 +1,49 @@
+h1, a {
+	border: 0px white dotted;
+} /*	box model test	*/
+
+a {
+	color:black;
+	text-decoration: underline;
+} /*	inline element	*/
+
+h1 {
+	font-size: 300%;
+	text-align: center;
+	display: inline;
+} /*	block level element	*/
+
+ol {
+	border-width: 1px;
+	border-color:cadetblue;
+	border-style: dotted;
+	display: table;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+li {
+	border-width: 1px;
+	border-color:cadetblue;
+	border-style: dotted;
+	color: cornflowerblue;
+}
+
+body {
+	font-family:'Times New Roman', Times, serif;
+}
+
+.padding, .margin {
+	width: 30%;
+	text-align: center;
+}
+
+.padding {
+	border: solid salmon 3px;
+	padding: 20px;
+}
+
+.margin {
+	border: solid sandybrown 3px;
+	margin: 10px;
+}
