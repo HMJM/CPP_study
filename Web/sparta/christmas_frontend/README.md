@@ -1,4 +1,4 @@
-# HTML_study
+# Web_study
 following 스파르타 코딩클럽 크리스마스 특별강의
 
 
