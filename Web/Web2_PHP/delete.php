@@ -16,12 +16,13 @@ require_once("lib/id.php");
 	<? require("view/top.php"); ?>
 	<div class="content">
 		<h2>
-			CREATE
+			DELETE PAGE: <?= $pageid ?>
 		</h2>
-		<form action="create_process.php" method="POST">
-			<p><input type="text" name="title" placeholder="title"></p>
-			<p><textarea name="content" placeholder="content"></textarea></p>
-			<p><input type="submit"></p>
+		<p>Page will be deleted. OK?</p>
+		<form action="delete_process.php" method="POST">
+			<p><input type="hidden" name="title" value=<?= $pageid ?>></p>
+			<p><input type="submit" value="Confirm"></p>
+		</form>
 	</div>
 	</div>
 </body>
