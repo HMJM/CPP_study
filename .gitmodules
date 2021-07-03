@@ -1,0 +1,9 @@
+[submodule "Web/React/react-tutorial"]
+	path = Web/React/react-tutorial
+	url = https://github.com/hyo-choi/react-tutorial.git
+[submodule "Web/React/storybook-tuto"]
+	path = Web/React/storybook-tuto
+	url = https://github.com/hyo-choi/react-storybook-tutorial.git
+[submodule "Web/React/storybook-tutorial"]
+	path = Web/React/storybook-tutorial
+	url = https://github.com/hyo-choi/react-storybook-tutorial.git
