@@ -7,3 +7,15 @@
 [submodule "Web/React/storybook-tutorial"]
 	path = Web/React/storybook-tutorial
 	url = https://github.com/hyo-choi/react-storybook-tutorial.git
+[submodule "Web/JavaScript/javascript-baseball-precourse"]
+	path = Web/JavaScript/javascript-baseball-precourse
+	url = https://github.com/hyo-choi/javascript-baseball-precourse.git
+[submodule "Web/JavaScript/javascript-racingcar-precourse"]
+	path = Web/JavaScript/javascript-racingcar-precourse
+	url = https://github.com/hyo-choi/javascript-racingcar-precourse.git
+[submodule "Web/JavaScript/javascript-subway-map-precourse"]
+	path = Web/JavaScript/javascript-subway-map-precourse
+	url = https://github.com/hyo-choi/javascript-subway-map-precourse
+[submodule "Web/JavaScript/javascript-subway-path-precourse"]
+	path = Web/JavaScript/javascript-subway-path-precourse
+	url = https://github.com/hyo-choi/javascript-subway-path-precourse
