@@ -19,3 +19,12 @@
 [submodule "Web/JavaScript/javascript-subway-path-precourse"]
 	path = Web/JavaScript/javascript-subway-path-precourse
 	url = https://github.com/hyo-choi/javascript-subway-path-precourse
+[submodule "Web/TypesSript/cypress-basic"]
+	path = Web/TypesSript/cypress-basic
+	url = https://github.com/hyo-choi/cypress-basic.git
+[submodule "Web/TypesSript/javascript-calculator"]
+	path = Web/TypesSript/javascript-calculator
+	url = https://github.com/hyo-choi/javascript-calculator.git
+[submodule "Web/TypesSript/javascript-lotto"]
+	path = Web/TypesSript/javascript-lotto
+	url = https://github.com/hyo-choi/javascript-lotto.git
