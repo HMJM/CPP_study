@@ -28,3 +28,6 @@
 [submodule "Web/TypesSript/javascript-lotto"]
 	path = Web/TypesSript/javascript-lotto
 	url = https://github.com/hyo-choi/javascript-lotto.git
+[submodule "Web/React/react-payments"]
+	path = Web/React/react-payments
+	url = https://github.com/hyo-choi/react-payments.git
